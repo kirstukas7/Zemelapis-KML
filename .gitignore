@@ -6,6 +6,7 @@
 # Custom
 *.svg
 *.ai
+.code-workspace
 desktop.ini
 backup/
 svg/
