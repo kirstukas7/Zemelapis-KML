@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document>
+	<name>Žemėlapio stiliai</name>
+	
+	<Style id="Priesprojektinis_11">
+		<LineStyle>
+			<color>ffc500ff</color>
+			<width>4.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Projektuojamas_11">
+		<LineStyle>
+			<color>ffffc500</color>
+			<width>4.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Konkursas_11">
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>4.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Darbai_11">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Veikiantis_11">	
+	
+
+		<LineStyle>
+			<color>ff00a838</color>
+			<width>4.0</width>
+		</LineStyle>
+	</Style>
+	
+	
+	<Style id="Priesprojektinis_21">
+		<LineStyle>
+			<color>ffc500ff</color>
+			<width>8.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Priesprojektine_s21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/priesprojektine_sankr_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_n21">
+		<IconStyle>
+			<scale>0.45</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/priesprojektine_nuov_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_x21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/priesprojektine_xsan_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Projektuojamas_21">
+		<LineStyle>
+			<color>ffffc500</color>
+			<width>8.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Projektuojama_s21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/projektuojama_sankr_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_n21">
+		<IconStyle>
+			<scale>0.45</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/projektuojama_nuov_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_x21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/projektuojama_xsan_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Konkursas_21">
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>8.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Konkursas_s21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/konkursas_sankr_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_n21">
+		<IconStyle>
+			<scale>0.45</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/konkursas_nuov_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_x21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/konkursas_xsan_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Darbai_21">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>8.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Darbai_s21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/darbai_sankr_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_n21">
+		<IconStyle>
+			<scale>0.45</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/darbai_nuov_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_x21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/darbai_xsan_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Veikiantis_21">
+		<LineStyle>
+			<color>ff00a838</color>
+			<width>8.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Veikianti_s21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/veikianti_sankr_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_n21">
+		<IconStyle>
+			<scale>0.45</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/veikianti_nuov_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_x21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/veikianti_xsan_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Priesprojektinis_22">
+		<LineStyle>
+			<color>ffc500ff</color>
+			<width>12.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Priesprojektine_s22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/priesprojektine_sankr_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_s22H">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/priesprojektine_sankr_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_n22">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/priesprojektine_nuov_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_n22H">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/priesprojektine_nuov_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_x22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/priesprojektine_xsan_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Projektuojamas_22">
+		<LineStyle>
+			<color>ffffc500</color>
+			<width>12.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Projektuojama_s22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/projektuojama_sankr_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_s22H">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/projektuojama_sankr_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_n22">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/projektuojama_nuov_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_n22H">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/projektuojama_nuov_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_x22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/projektuojama_xsan_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Konkursas_22">
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>12.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Konkursas_s22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/konkursas_sankr_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_s22H">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/konkursas_sankr_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_n22">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/konkursas_nuov_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_n22H">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/konkursas_nuov_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_x22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/konkursas_xsan_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Darbai_22">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>12.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Darbai_s22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/darbai_sankr_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_s22H">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/darbai_sankr_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_n22">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/darbai_nuov_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_n22H">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/darbai_nuov_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_x22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/darbai_xsan_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Veikiantis_22">
+		<LineStyle>
+			<color>ff00a838</color>
+			<width>12.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Veikianti_s22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/veikianti_sankr_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_s22H">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/veikianti_sankr_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_n22">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/veikianti_nuov_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_n22H">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/veikianti_nuov_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_x22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/veikianti_xsan_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_x22H">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/veikianti_xsan_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Priesprojektinis_33">
+		<LineStyle>
+			<color>ffc500ff</color>
+			<width>16.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Priesprojektine_s33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/priesprojektine_sankr_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_s33H">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/priesprojektine_sankr_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_n33">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/priesprojektine_nuov_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_n33H">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/priesprojektine_nuov_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_x33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/priesprojektine_xsan_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Projektuojamas_33">
+		<LineStyle>
+			<color>ffffc500</color>
+			<width>16.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Projektuojama_s33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/projektuojama_sankr_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_s33H">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/projektuojama_sankr_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_n33">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/projektuojama_nuov_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_n33H">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/projektuojama_nuov_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_x33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/projektuojama_xsan_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Konkursas_33">
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>16.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Konkursas_s33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/konkursas_sankr_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_s33H">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/konkursas_sankr_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_n33">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/konkursas_nuov_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_n33H">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/konkursas_nuov_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_x33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/konkursas_xsan_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Darbai_33">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>16.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Darbai_s33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/darbai_sankr_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_s33H">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/darbai_sankr_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_n33">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/darbai_nuov_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_n33H">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/darbai_nuov_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_x33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/darbai_xsan_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Veikiantis_33">
+		<LineStyle>
+			<color>ff00a838</color>
+			<width>16.0</width>
+		</LineStyle>
+	</Style>
+	<Style id="Veikianti_s33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/veikianti_sankr_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_s33H">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/veikianti_sankr_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_n33">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/veikianti_nuov_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_n33H">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/veikianti_nuov_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_x33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/veikianti_xsan_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	
+	
+	<Style id="Skiriamoji_21">
+		<LineStyle>
+			<color>ffffffff</color>
+			<width>2.000000</width>
+		</LineStyle>
+	</Style>
+	<Style id="Skiriamoji_22">
+		<LineStyle>
+			<color>ffffffff</color>
+			<width>4.000000</width>
+		</LineStyle>
+	</Style>
+	<Style id="Skiriamoji_22H">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>4.000000</width>
+		</LineStyle>
+	</Style>
+</Document>
