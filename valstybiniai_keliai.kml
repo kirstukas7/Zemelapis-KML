@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
  xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
-<Document id="Kelias_5683_7250">
+<Document id="Valstybines_reiksmes_keliai">
 	<name>Valstybinės reikšmės keliai</name>
 	
 	<Folder id="A1">
@@ -669,7 +669,7 @@
 	<Style id="Priesprojektine_s21">
 		<IconStyle>
 			<scale>0.5</scale>
-			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/priesprojektine_sankr_21.png?raw=true?raw=true</href></Icon>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/priesprojektine_sankr_21.png?raw=true</href></Icon>
 		</IconStyle>
 		<LabelStyle>
 			<scale>0.0</scale>
@@ -678,7 +678,7 @@
 	<Style id="Priesprojektine_n21">
 		<IconStyle>
 			<scale>0.45</scale>
-			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/priesprojektine_nuov_21.png?raw=true?raw=true</href></Icon>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/priesprojektine_nuov_21.png?raw=true</href></Icon>
 		</IconStyle>
 		<LabelStyle>
 			<scale>0.0</scale>
@@ -687,7 +687,7 @@
 	<Style id="Priesprojektine_x21">
 		<IconStyle>
 			<scale>0.5</scale>
-			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/priesprojektine_xsan_21.png?raw=true?raw=true</href></Icon>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/priesprojektine_xsan_21.png?raw=true</href></Icon>
 		</IconStyle>
 		<LabelStyle>
 			<scale>0.0</scale>
@@ -704,7 +704,7 @@
 	<Style id="Projektuojama_s21">
 		<IconStyle>
 			<scale>0.5</scale>
-			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/projektuojama_sankr_21.png?raw=true?raw=true</href></Icon>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/projektuojama_sankr_21.png?raw=true</href></Icon>
 		</IconStyle>
 		<LabelStyle>
 			<scale>0.0</scale>
@@ -713,7 +713,7 @@
 	<Style id="Projektuojama_n21">
 		<IconStyle>
 			<scale>0.45</scale>
-			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/projektuojama_nuov_21.png?raw=true?raw=true</href></Icon>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/projektuojama_nuov_21.png?raw=true</href></Icon>
 		</IconStyle>
 		<LabelStyle>
 			<scale>0.0</scale>
@@ -722,7 +722,7 @@
 	<Style id="Projektuojama_x21">
 		<IconStyle>
 			<scale>0.5</scale>
-			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/projektuojama_xsan_21.png?raw=true?raw=true</href></Icon>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/projektuojama_xsan_21.png?raw=true</href></Icon>
 		</IconStyle>
 		<LabelStyle>
 			<scale>0.0</scale>
@@ -739,7 +739,7 @@
 	<Style id="Konkursas_s21">
 		<IconStyle>
 			<scale>0.5</scale>
-			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/konkursas_sankr_21.png?raw=true?raw=true</href></Icon>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/konkursas_sankr_21.png?raw=true</href></Icon>
 		</IconStyle>
 		<LabelStyle>
 			<scale>0.0</scale>
@@ -748,7 +748,7 @@
 	<Style id="Konkursas_n21">
 		<IconStyle>
 			<scale>0.45</scale>
-			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/konkursas_nuov_21.png?raw=true?raw=true</href></Icon>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/konkursas_nuov_21.png?raw=true</href></Icon>
 		</IconStyle>
 		<LabelStyle>
 			<scale>0.0</scale>
