@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document>
+    <name>Rekonstrukcijos - Sankryzos</name>
+
+    <Folder id="A1">
+        <name>A1</name>
+
+        <Folder id="A1_1000_1820">
+            <name>A1 10,00-18,20</name>
+
+            <Placemark id="A1_1000_1430_nuovazos">
+				<name>A1 Vilnius</name>
+				<styleUrl>#Veikianti_n22</styleUrl>
+				<MultiGeometry><Point><coordinates> 25.14259300914014,54.65783637764999,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A1_1430_1820_nuovazos">
+				<name>A1 Grigiškės</name>
+				<styleUrl>#Veikianti_n22</styleUrl>
+				<MultiGeometry><Point><coordinates> 25.12353986952472,54.66437694054381,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A1_1000_1430_sankryzos">
+				<name>A1/A19</name>
+				<styleUrl>#Veikianti_s22</styleUrl>
+				<MultiGeometry><Point><coordinates> 25.15087045447729,54.65473728355318,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A1_1430_1820_sankryzos">
+				<name>A1 Grigiškės</name>
+				<styleUrl>#Veikianti_s22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 25.07713152932137,54.67728398272957,0</coordinates></Point>
+					<Point><coordinates> 25.10914873021404,54.66856908335986,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="A1_1820_9320">
+			<name>A1 Vilnius-Kaunas</name>
+
+            <Placemark id="A1_3625_3910_nuovazos">
+				<name>A1 Vilnius-Kaunas</name>
+				<styleUrl>#Veikianti_n22</styleUrl>
+				<MultiGeometry><Point><coordinates> 24.81973277016596,54.77189899078664,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A1_1820_9320_nuovazos">
+				<name>A1 Vilnius-Kaunas</name>
+				<styleUrl>#Veikianti_n22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 24.00459557223796,54.93046912623217,0</coordinates></Point>
+					<Point><coordinates> 24.03625031638823,54.92830961371212,0</coordinates></Point>
+					<Point><coordinates> 24.10888278930366,54.90968664280075,0</coordinates></Point>
+					<Point><coordinates> 24.11813901382153,54.90653489521129,0</coordinates></Point>
+					<Point><coordinates> 24.67551636488421,54.78983527780098,0</coordinates></Point>
+					<Point><coordinates> 25.04291008280869,54.69023531427401,0</coordinates></Point>
+					<Point><coordinates> 25.05598284023535,54.6841584994342,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A1_3625_3910_sankryzos">
+				<name>A1 Vilnius-Kaunas</name>
+				<styleUrl>#Veikianti_s22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 24.80446972065064,54.7761200360021,0</coordinates></Point>
+					<Point><coordinates> 24.84478097493342,54.76694217911681,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A1_1820_9320_sankryzos">
+				<name>A1 Vilnius-Kaunas</name>
+				<styleUrl>#Veikianti_s22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 24.05080050241998,54.92732260280791,0</coordinates></Point>
+					<Point><coordinates> 24.07472468749323,54.92434299354096,0</coordinates></Point>
+					<Point><coordinates> 24.0842777450254,54.92001669791777,0</coordinates></Point>
+					<Point><coordinates> 24.15042998348359,54.89553953037336,0</coordinates></Point>
+					<Point><coordinates> 24.21581013432811,54.87681419710416,0</coordinates></Point>
+					<Point><coordinates> 24.34174818165566,54.84198382324596,0</coordinates></Point>
+					<Point><coordinates> 24.42727463647641,54.81831400624826,0</coordinates></Point>
+					<Point><coordinates> 24.4534524763069,54.81199357124783,0</coordinates></Point>
+					<Point><coordinates> 24.50761653560178,54.80263743759542,0</coordinates></Point>
+					<Point><coordinates> 24.56597518019945,54.79660057659513,0</coordinates></Point>
+					<Point><coordinates> 24.60629529995578,54.79413118937906,0</coordinates></Point>
+					<Point><coordinates> 24.66478651343155,54.79050459286671,0</coordinates></Point>
+					<Point><coordinates> 24.71747488056476,54.78707056184962,0</coordinates></Point>
+					<Point><coordinates> 24.94217207529456,54.74356576270135,0</coordinates></Point>
+					<Point><coordinates> 24.98843190062527,54.71101424416067,0</coordinates></Point>
+					<Point><coordinates> 25.03212116443113,54.6925559402371,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="A1_9550_9929">
+            <name>A1 95,50-99,29</name>
+
+            <Placemark id="A1_9807_sankryzos">
+                <name>A1 sankryža su Ašigalio g.</name>
+                <styleUrl>#Projektuojama_s33</styleUrl>
+                <MultiGeometry><Point><coordinates> 23.94308018574814,54.93517705189894,0</coordinates></Point></MultiGeometry>
+            </Placemark>
+            
+            <Placemark id="A1_9550_sankryzos">
+                <name>A1/A6 sankryža</name>
+                <styleUrl>#Priesprojektine_s33</styleUrl>
+                <MultiGeometry><Point><coordinates> 23.98268820648717,54.93304010419501,0</coordinates></Point></MultiGeometry>
+            </Placemark>
+        </Folder>
+
+        <Folder id="A1_9929_10047">
+			<name>A1 99,29-100,47</name>
+
+            <Placemark id="A1_9929_10047_sankryzos">
+				<name>A1 99,29-100,47</name>
+				<styleUrl>#Darbai_s33</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.91091259519879,54.93675597629974,0</coordinates></Point>
+					<Point><coordinates> 23.91903759194064,54.93625238303943,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="A1_10047_10179">
+			<name>A1 100,47-101,79</name>
+
+			<Placemark id="A1_10047_10179_sankryzos">
+				<name>A1 100,47-101,79</name>
+				<styleUrl>#Veikianti_s33</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.89871500436967,54.93742313264988,0</coordinates></Point>
+					<Point><coordinates> 23.88259053607388,54.93979534099091,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+
+        <Folder id="A1_10290_10700">
+			<name>A1 102,90-107,00</name>
+
+            <Placemark id="A1_10290_10700_nuovazos">
+				<name>A1 102,90-107,00</name>
+				<styleUrl>#Veikianti_n22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 23.868677367868,54.95515480338192,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+            
+			<Placemark id="A1_10290_10700_sankryzos">
+				<name>A1 102,90-107,00</name>
+				<styleUrl>#Veikianti_s22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 23.85623950734481,54.97121631569777,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        
+    </Folder>
+
+    <Folder id="A5">
+        <name>A5</name>
+
+        <Folder id="A5_000_1645">
+			<name>A5 0,00-16,45</name>
+
+            <Placemark id="A5_000_1645_nuovazos">
+				<name>A5 0,00-16,45</name>
+				<styleUrl>#Priesprojektine_n22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.84241520318177,54.85052450326731,0</coordinates></Point>
+					<Point><coordinates> 23.83360378127346,54.8623584752462,0</coordinates></Point>
+					<Point><coordinates> 23.8201966448469,54.88854464704329,0</coordinates></Point>
+					<Point><coordinates> 23.8522212936716,54.92737847107105,0</coordinates></Point>
+					<Point><coordinates> 23.86832087144751,54.93347158037129,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A5_000_1645_sankryzos">
+				<name>A5 0,00-16,45</name>
+				<styleUrl>#Priesprojektine_s22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.86275919850427,54.81181366024654,0</coordinates></Point>
+					<Point><coordinates> 23.85330475712568,54.82561329746755,0</coordinates></Point>
+					<Point><coordinates> 23.82675804747995,54.89391060255146,0</coordinates></Point>
+					<Point><coordinates> 23.83374835703358,54.90224597300639,0</coordinates></Point>
+					<Point><coordinates> 23.83465078390675,54.91214919410147,0</coordinates></Point>
+					<Point><coordinates> 23.87287549163474,54.93647394352696,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="A5_1646_2332">
+			<name>A5 16,465-23,32</name>
+
+            <Placemark id="A5_1646_2332_nuovazos">
+				<name>A5 16,465-23,32</name>
+				<styleUrl>#Projektuojama_n22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 23.84979286718426,54.80741101125786,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A5_1646_2332_sankryzos">
+				<name>A5 16,465-23,32</name>
+				<styleUrl>#Projektuojama_s22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.78782611319678,54.7864733114773,0</coordinates></Point>
+					<Point><coordinates> 23.78003848864135,54.78146398912661,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+        
+        <Folder id="A5_2332_5683">
+			<name>A5 23,32-56,83</name>
+
+            <Placemark id="A5_2332_5683_sankryzos">
+				<name>A5 23,32-56,83</name>
+				<styleUrl>#Veikianti_s22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.39380972408614,54.59522881175921,0</coordinates></Point>
+					<Point><coordinates> 23.42276326022822,54.62821500583919,0</coordinates></Point>
+					<Point><coordinates> 23.68417009826376,54.72591084232495,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="A5_5683_7250">
+			<name>A5 56,83-72,50</name>
+
+            <Placemark id="A5_5683_7250_nuovazos">
+				<name>A5 56,83-72,50</name>
+				<styleUrl>#Darbai_n22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.27254727665842,54.55750407397979,0</coordinates></Point>
+					<Point><coordinates> 23.38905040569341,54.59151224363966,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A5_5683_7250_sankryzos">
+				<name>A5 56,83-72,50</name>
+				<styleUrl>#Darbai_s22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.37838178610547,54.58517920293949,0</coordinates></Point>
+					<Point><coordinates> 23.2413364772266,54.51924983276711,0</coordinates></Point>
+					<Point><coordinates> 23.29723770400776,54.57307251810772,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="A5_7250_7900">
+			<name>A5 72,50-79,00</name>
+
+            <Placemark id="A5_7250_7900_nuovazos">
+				<name>A5 72,50-79,00</name>
+				<styleUrl>#Veikianti_n22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 23.21922054512473,54.47639896986393,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="A5_7900_8500">
+			<name>A5 79,00-85,00</name>
+
+            <Placemark id="A5_7900_8500_nuovazos">
+				<name>A5 79,00-85,00</name>
+				<styleUrl>#Veikianti_n22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 23.20584272611578,54.40890893893472,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A5_7900_8500_sankryzos">
+				<name>A5 79,00-85,00</name>
+				<styleUrl>#Veikianti_s22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 23.20345739360926,54.41494891481148,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="A5_8500_9706">
+			<name>A5 85,00-97,06</name>
+
+            <Placemark id="A5_8500_9706_nuovazos">
+				<name>A5 85,00-97,06</name>
+				<styleUrl>#Darbai_n22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.14169370379172,54.32064844428877,0</coordinates></Point>
+					<Point><coordinates> 23.152879455641,54.33165582850729,0</coordinates></Point>
+					<Point><coordinates> 23.18098952403694,54.3687025781131,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A5_8500_9706_sankryzos">
+				<name>A5 85,00-97,06</name>
+				<styleUrl>#Darbai_s22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.128739684781,54.31362780593771,0</coordinates></Point>
+					<Point><coordinates> 23.16126094654929,54.34049621911893,0</coordinates></Point>
+					<Point><coordinates> 23.18994889667594,54.37735750033646,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+    </Folder>
+
+    <Folder id="KK130">
+        <name>KK130</name>
+
+        <Folder id="KK130_1160_1948">
+			<name>KK130 11,60-19,48</name>
+
+            <Placemark id="KK130_1160_1948_nuovazos">
+				<name>KK130 11,60-19,48</name>
+				<styleUrl>#Projektuojama_n22</styleUrl>
+				<MultiGeometry><Point><coordinates>23.87717586883365,54.78437939265439,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="KK130_1160_1948_sankryzos2">
+				<name>KK130 11,60-19,48</name>
+				<styleUrl>#Projektuojama_s22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.9170130632764,54.75329343721627,0</coordinates></Point>
+					<Point><coordinates> 23.87612395690729,54.79521464409265,0</coordinates></Point>
+					<Point><coordinates> 23.87338103113728,54.80178991026015,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="KK130_1160_1948_sankryzos1">
+				<name>KK130 11,60-19,48</name>
+				<styleUrl>#Projektuojama_x22</styleUrl>
+				<MultiGeometry><Point><coordinates>23.87839655533726,54.77798643880442,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="KK130_1948_3110">
+			<name>KK130 19,48-31,10</name>
+
+            <Placemark id="KK130_1948_3110_nuovazos">
+				<name>KK130 19,48-31,10</name>
+				<styleUrl>#Projektuojama_n22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.95928991135091,54.68227878354816,0</coordinates></Point>
+					<Point><coordinates> 23.95813811125656,54.71317953190556,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="KK130_1948_3110_sankryzos1">
+				<name>KK130 19,48-31,10</name>
+				<styleUrl>#Projektuojama_x22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.9481967506546,54.6591051151596,0</coordinates></Point>
+					<Point><coordinates> 23.95264326129234,54.67437507958083,0</coordinates></Point>
+					<Point><coordinates> 23.96266088706528,54.6950277056317,0</coordinates></Point>
+					<Point><coordinates> 23.95251713153825,54.72280692552055,0</coordinates></Point>
+					<Point><coordinates> 23.92887962222836,54.74286837438828,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+    </Folder>
+    
+    <Style id="Priesprojektine_s21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/priesprojektine_sankr_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_n21">
+		<IconStyle>
+			<scale>0.45</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/priesprojektine_nuov_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_x21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/priesprojektine_xsan_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Projektuojama_s21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/projektuojama_sankr_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_n21">
+		<IconStyle>
+			<scale>0.45</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/projektuojama_nuov_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_x21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/projektuojama_xsan_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Konkursas_s21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/konkursas_sankr_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_n21">
+		<IconStyle>
+			<scale>0.45</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/konkursas_nuov_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_x21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/konkursas_xsan_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Darbai_s21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/darbai_sankr_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_n21">
+		<IconStyle>
+			<scale>0.45</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/darbai_nuov_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_x21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/darbai_xsan_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Veikianti_s21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/veikianti_sankr_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_n21">
+		<IconStyle>
+			<scale>0.45</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/veikianti_nuov_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_x21">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/veikianti_xsan_21.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Priesprojektine_s22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/priesprojektine_sankr_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_s22H">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/priesprojektine_sankr_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_n22">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/priesprojektine_nuov_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_n22H">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/priesprojektine_nuov_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_x22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/priesprojektine_xsan_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Projektuojama_s22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/projektuojama_sankr_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_s22H">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/projektuojama_sankr_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_n22">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/projektuojama_nuov_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_n22H">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/projektuojama_nuov_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_x22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/projektuojama_xsan_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Konkursas_s22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/konkursas_sankr_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_s22H">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/konkursas_sankr_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_n22">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/konkursas_nuov_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_n22H">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/konkursas_nuov_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_x22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/konkursas_xsan_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Darbai_s22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/darbai_sankr_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_s22H">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/darbai_sankr_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_n22">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/darbai_nuov_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_n22H">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/darbai_nuov_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_x22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/darbai_xsan_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Veikianti_s22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/veikianti_sankr_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_s22H">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/veikianti_sankr_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_n22">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/veikianti_nuov_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_n22H">
+		<IconStyle>
+			<scale>0.65</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/veikianti_nuov_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_x22">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/veikianti_xsan_22.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_x22H">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/veikianti_xsan_22H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Priesprojektine_s33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/priesprojektine_sankr_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_s33H">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/priesprojektine_sankr_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_n33">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/priesprojektine_nuov_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_n33H">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/priesprojektine_nuov_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Priesprojektine_x33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/priesprojektine_xsan_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Projektuojama_s33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/projektuojama_sankr_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_s33H">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/projektuojama_sankr_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_n33">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/projektuojama_nuov_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_n33H">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/projektuojama_nuov_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Projektuojama_x33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/projektuojama_xsan_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Konkursas_s33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/konkursas_sankr_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_s33H">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/konkursas_sankr_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_n33">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/konkursas_nuov_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_n33H">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/konkursas_nuov_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Konkursas_x33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/konkursas_xsan_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Darbai_s33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/darbai_sankr_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_s33H">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/darbai_sankr_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_n33">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/darbai_nuov_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_n33H">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/darbai_nuov_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Darbai_x33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/darbai_xsan_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+
+
+    <Style id="Veikianti_s33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/veikianti_sankr_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_s33H">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/sankr/veikianti_sankr_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_n33">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/veikianti_nuov_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_n33H">
+		<IconStyle>
+			<scale>0.85</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/nuov/veikianti_nuov_33H.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="Veikianti_x33">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon><href>https://github.com/kirstukas7/Zemelapis-KML/blob/main/icons/xsan/veikianti_xsan_33.png?raw=true</href></Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.0</scale>
+		</LabelStyle>
+	</Style>
+</Document>
+</kml>
