@@ -10,31 +10,28 @@
         <Folder id="A1_1000_1820">
             <name>A1 10,00-18,20</name>
 
-            <Placemark id="A1_1000_1430_nuovazos">
-				<name>A1 Vilnius</name>
+            <Placemark id="A1_1000_1820_nuovazos">
+				<name>A1 Vilnius-Kaunas</name>
 				<styleUrl>#Veikianti_n22</styleUrl>
-				<MultiGeometry><Point><coordinates> 25.14259300914014,54.65783637764999,0</coordinates></Point></MultiGeometry>
+				<MultiGeometry>
+					<Point><coordinates> 25.14259300914014,54.65783637764999,0</coordinates></Point>
+					<Point><coordinates> 25.12353986952472,54.66437694054381,0</coordinates></Point>
+				</MultiGeometry>
 			</Placemark>
-			
-			<Placemark id="A1_1430_1820_nuovazos">
-				<name>A1 Grigiškės</name>
-				<styleUrl>#Veikianti_n22</styleUrl>
-				<MultiGeometry><Point><coordinates> 25.12353986952472,54.66437694054381,0</coordinates></Point></MultiGeometry>
-			</Placemark>
-			
-			<Placemark id="A1_1000_1430_sankryzos">
-				<name>A1/A19</name>
-				<styleUrl>#Veikianti_s22</styleUrl>
-				<MultiGeometry><Point><coordinates> 25.15087045447729,54.65473728355318,0</coordinates></Point></MultiGeometry>
-			</Placemark>
-			
-			<Placemark id="A1_1430_1820_sankryzos">
-				<name>A1 Grigiškės</name>
+
+			<Placemark id="A1_1000_1820_sankryzos">
+				<name>A1 Vilnius-Kaunas</name>
 				<styleUrl>#Veikianti_s22</styleUrl>
 				<MultiGeometry>
 					<Point><coordinates> 25.07713152932137,54.67728398272957,0</coordinates></Point>
 					<Point><coordinates> 25.10914873021404,54.66856908335986,0</coordinates></Point>
 				</MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A1_1235_sankryzos">
+				<name>A1/A19</name>
+				<styleUrl>#Veikianti_s22</styleUrl>
+				<MultiGeometry><Point><coordinates> 25.15087045447729,54.65473728355318,0</coordinates></Point></MultiGeometry>
 			</Placemark>
         </Folder>
 
@@ -230,7 +227,7 @@
 		</Folder>
 
 		<Folder id="A1_30050_30320">
-			<name>A1 Kaunas-Klaipėda</name>
+			<name>A1 300,50-303,20</name>
 
 			<Placemark id="A1_30050_30320_nuovazos">
 				<name>A1 Kaunas-Klaipėda</name>
@@ -246,7 +243,7 @@
 		</Folder>
 
 		<Folder id="A1_30320_30640">
-			<name>A1 Kaunas-Klaipėda</name>
+			<name>A1 303,20-306,40</name>
 
 			<Placemark id="A1_30320_30640_nuovazos">
 				<name>A1 Kaunas-Klaipėda</name>
