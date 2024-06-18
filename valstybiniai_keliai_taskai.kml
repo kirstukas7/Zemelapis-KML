@@ -152,7 +152,120 @@
 			</Placemark>
         </Folder>
 
-        
+        <Folder id="A1_10700_30050">
+			<name>A1 Kaunas-Klaipėda</name>
+
+			<Placemark id="A1_18360_18400_sankryzos">
+				<name>A1 Kaunas-Klaipėda</name>
+				<styleUrl>#Veikianti_x22</styleUrl>
+				<MultiGeometry><Point><coordinates> 22.95094563129619,55.37361596224456,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A1_10700_30050_nuovazos">
+				<name>A1 Kaunas-Klaipėda</name>
+				<styleUrl>#Veikianti_n22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 21.28715984787084,55.71703074748855,0</coordinates></Point>
+					<Point><coordinates> 21.29311267962814,55.71823292236265,0</coordinates></Point>
+					<Point><coordinates> 21.35213757143437,55.73016478058963,0</coordinates></Point>
+					<Point><coordinates> 21.41879360756177,55.72655845359545,0</coordinates></Point>
+					<Point><coordinates> 21.46381953217104,55.71168970004944,0</coordinates></Point>
+					<Point><coordinates> 22.35154839794098,55.52837290609252,0</coordinates></Point>
+					<Point><coordinates> 22.69503152140411,55.46125106055715,0</coordinates></Point>
+					<Point><coordinates> 23.36864862624028,55.27456009007641,0</coordinates></Point>
+					<Point><coordinates> 23.54437421176536,55.22758739260712,0</coordinates></Point>
+					<Point><coordinates> 23.60955032915768,55.20707205868369,0</coordinates></Point>
+					<Point><coordinates> 23.66653841771967,55.17190796533735,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A1_10700_30050_sankryzos1">
+				<name>A1 Kaunas-Klaipėda</name>
+				<styleUrl>#Veikianti_x22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 21.58399815412364,55.70591826525582,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A1_10700_30050_sankryzos2">
+				<name>A1 Kaunas-Klaipėda</name>
+				<styleUrl>#Veikianti_s22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 21.31304672787239,55.72227131152277,0</coordinates></Point>
+					<Point><coordinates> 21.38250342628973,55.73267880746913,0</coordinates></Point>
+					<Point><coordinates> 21.44964634121628,55.71575209832714,0</coordinates></Point>
+					<Point><coordinates> 21.47985975645949,55.70921539153679,0</coordinates></Point>
+					<Point><coordinates> 21.55664870634677,55.70744372731961,0</coordinates></Point>
+					<Point><coordinates> 21.69114354092881,55.687168084529,0</coordinates></Point>
+					<Point><coordinates> 21.87256527180526,55.64407778757109,0</coordinates></Point>
+					<Point><coordinates> 21.97562156786129,55.62631125674633,0</coordinates></Point>
+					<Point><coordinates> 21.99767389744443,55.61944706015089,0</coordinates></Point>
+					<Point><coordinates> 22.14559654767088,55.58557816339228,0</coordinates></Point>
+					<Point><coordinates> 22.22010698911194,55.55949121451262,0</coordinates></Point>
+					<Point><coordinates> 22.31427689884918,55.53578051229147,0</coordinates></Point>
+					<Point><coordinates> 22.43954162204034,55.50401001786786,0</coordinates></Point>
+					<Point><coordinates> 22.58438236363109,55.48397363067792,0</coordinates></Point>
+					<Point><coordinates> 22.68192440072291,55.46598418620631,0</coordinates></Point>
+					<Point><coordinates> 22.76665227122237,55.42313273695227,0</coordinates></Point>
+					<Point><coordinates> 22.82964964436904,55.41147007876508,0</coordinates></Point>
+					<Point><coordinates> 22.86484310574836,55.39766039985979,0</coordinates></Point>
+					<Point><coordinates> 23.0398009829468,55.35429022169654,0</coordinates></Point>
+					<Point><coordinates> 23.09785401619324,55.33713586000089,0</coordinates></Point>
+					<Point><coordinates> 23.21494423109733,55.31977462361017,0</coordinates></Point>
+					<Point><coordinates> 23.27880105032408,55.29500037150719,0</coordinates></Point>
+					<Point><coordinates> 23.34097994955076,55.27914662456001,0</coordinates></Point>
+					<Point><coordinates> 23.4806899130906,55.2450439201291,0</coordinates></Point>
+					<Point><coordinates> 23.51385777860713,55.2368238668401,0</coordinates></Point>
+					<Point><coordinates> 23.64089228711256,55.18659825795489,0</coordinates></Point>
+					<Point><coordinates> 23.69653876605222,55.15483830625791,0</coordinates></Point>
+					<Point><coordinates> 23.72332493062009,55.13942732373213,0</coordinates></Point>
+					<Point><coordinates> 23.74980880221337,55.1242460633957,0</coordinates></Point>
+					<Point><coordinates> 23.77918553468579,55.10774498386036,0</coordinates></Point>
+					<Point><coordinates> 23.80176367964577,55.09647632249705,0</coordinates></Point>
+					<Point><coordinates> 23.81444924701529,55.07331458171279,0</coordinates></Point>
+					
+					<Point><coordinates> 23.82024409835177,55.04852519403755,0</coordinates></Point>
+					<Point><coordinates> 23.82408324994108,55.03837821211751,0</coordinates></Point>
+					<Point><coordinates> 23.84358666919434,54.99653743161037,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+
+		<Folder id="A1_30050_30320">
+			<name>A1 Kaunas-Klaipėda</name>
+
+			<Placemark id="A1_30050_30320_nuovazos">
+				<name>A1 Kaunas-Klaipėda</name>
+				<styleUrl>#Veikianti_n22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 21.26505344240253,55.7125321607285,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A1_30050_30320_sankryzos">
+				<name>A1 Kaunas-Klaipėda</name>
+				<styleUrl>#Veikianti_s22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 21.23033063535001,55.70544884766556,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+		</Folder>
+
+		<Folder id="A1_30320_30640">
+			<name>A1 Kaunas-Klaipėda</name>
+
+			<Placemark id="A1_30320_30640_nuovazos">
+				<name>A1 Kaunas-Klaipėda</name>
+				<styleUrl>#Veikianti_n22</styleUrl>
+				<MultiGeometry><Point><coordinates> 21.22231895658969,55.70381651969996,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A1_30475_sankryzos">
+				<name>A1/A13</name>
+				<styleUrl>#Veikianti_x22</styleUrl>
+				<MultiGeometry><Point><coordinates> 21.20504514239688,55.70011049576508,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A1_30570_sankryzos">
+				<name>A1/Klaipėdos LEZ</name>
+				<styleUrl>#Veikianti_x22</styleUrl>
+				<MultiGeometry><Point><coordinates> 21.18951398799004,55.69569135267447,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+		</Folder>
     </Folder>
 
     <Folder id="A5">
