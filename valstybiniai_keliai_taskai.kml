@@ -4,6 +4,200 @@
 <Document>
     <name>Rekonstrukcijos - Sankryzos</name>
 
+    <Folder id="KK130">
+        <name>KK130</name>
+
+        <Folder id="KK130_1160_1948">
+			<name>KK130 11,60-19,48</name>
+
+            <Placemark id="KK130_1160_1948_nuovazos">
+				<name>KK130 11,60-19,48</name>
+				<styleUrl>#Projektuojama_n22</styleUrl>
+				<MultiGeometry><Point><coordinates>23.87717586883365,54.78437939265439,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="KK130_1160_1948_sankryzos2">
+				<name>KK130 11,60-19,48</name>
+				<styleUrl>#Projektuojama_s22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.9170130632764,54.75329343721627,0</coordinates></Point>
+					<Point><coordinates> 23.87612395690729,54.79521464409265,0</coordinates></Point>
+					<Point><coordinates> 23.87338103113728,54.80178991026015,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="KK130_1160_1948_sankryzos1">
+				<name>KK130 11,60-19,48</name>
+				<styleUrl>#Projektuojama_x22</styleUrl>
+				<MultiGeometry><Point><coordinates>23.87839655533726,54.77798643880442,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="KK130_1948_3110">
+			<name>KK130 19,48-31,10</name>
+
+            <Placemark id="KK130_1948_3110_nuovazos">
+				<name>KK130 19,48-31,10</name>
+				<styleUrl>#Projektuojama_n22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.95928991135091,54.68227878354816,0</coordinates></Point>
+					<Point><coordinates> 23.95813811125656,54.71317953190556,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="KK130_1948_3110_sankryzos1">
+				<name>KK130 19,48-31,10</name>
+				<styleUrl>#Projektuojama_x22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.9481967506546,54.6591051151596,0</coordinates></Point>
+					<Point><coordinates> 23.95264326129234,54.67437507958083,0</coordinates></Point>
+					<Point><coordinates> 23.96266088706528,54.6950277056317,0</coordinates></Point>
+					<Point><coordinates> 23.95251713153825,54.72280692552055,0</coordinates></Point>
+					<Point><coordinates> 23.92887962222836,54.74286837438828,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+    </Folder>
+
+    <Folder id="A5">
+        <name>A5</name>
+
+        <Folder id="A5_000_1645">
+			<name>A5 0,00-16,45</name>
+
+            <Placemark id="A5_000_1645_nuovazos">
+				<name>A5 0,00-16,45</name>
+				<styleUrl>#Priesprojektine_n22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.84241520318177,54.85052450326731,0</coordinates></Point>
+					<Point><coordinates> 23.83360378127346,54.8623584752462,0</coordinates></Point>
+					<Point><coordinates> 23.8201966448469,54.88854464704329,0</coordinates></Point>
+					<Point><coordinates> 23.8522212936716,54.92737847107105,0</coordinates></Point>
+					<Point><coordinates> 23.86832087144751,54.93347158037129,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A5_000_1645_sankryzos">
+				<name>A5 0,00-16,45</name>
+				<styleUrl>#Priesprojektine_s22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.86275919850427,54.81181366024654,0</coordinates></Point>
+					<Point><coordinates> 23.85330475712568,54.82561329746755,0</coordinates></Point>
+					<Point><coordinates> 23.82675804747995,54.89391060255146,0</coordinates></Point>
+					<Point><coordinates> 23.83374835703358,54.90224597300639,0</coordinates></Point>
+					<Point><coordinates> 23.83465078390675,54.91214919410147,0</coordinates></Point>
+					<Point><coordinates> 23.87287549163474,54.93647394352696,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="A5_1646_2332">
+			<name>A5 16,465-23,32</name>
+
+            <Placemark id="A5_1646_2332_nuovazos">
+				<name>A5 16,465-23,32</name>
+				<styleUrl>#Projektuojama_n22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 23.84979286718426,54.80741101125786,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A5_1646_2332_sankryzos">
+				<name>A5 16,465-23,32</name>
+				<styleUrl>#Projektuojama_s22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.78782611319678,54.7864733114773,0</coordinates></Point>
+					<Point><coordinates> 23.78003848864135,54.78146398912661,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+        
+        <Folder id="A5_2332_5683">
+			<name>A5 23,32-56,83</name>
+
+            <Placemark id="A5_2332_5683_sankryzos">
+				<name>A5 23,32-56,83</name>
+				<styleUrl>#Veikianti_s22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.39380972408614,54.59522881175921,0</coordinates></Point>
+					<Point><coordinates> 23.42276326022822,54.62821500583919,0</coordinates></Point>
+					<Point><coordinates> 23.68417009826376,54.72591084232495,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="A5_5683_7250">
+			<name>A5 56,83-72,50</name>
+
+            <Placemark id="A5_5683_7250_nuovazos">
+				<name>A5 56,83-72,50</name>
+				<styleUrl>#Darbai_n22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.27254727665842,54.55750407397979,0</coordinates></Point>
+					<Point><coordinates> 23.38905040569341,54.59151224363966,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A5_5683_7250_sankryzos">
+				<name>A5 56,83-72,50</name>
+				<styleUrl>#Darbai_s22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.37838178610547,54.58517920293949,0</coordinates></Point>
+					<Point><coordinates> 23.2413364772266,54.51924983276711,0</coordinates></Point>
+					<Point><coordinates> 23.29723770400776,54.57307251810772,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="A5_7250_7900">
+			<name>A5 72,50-79,00</name>
+
+            <Placemark id="A5_7250_7900_nuovazos">
+				<name>A5 72,50-79,00</name>
+				<styleUrl>#Veikianti_n22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 23.21922054512473,54.47639896986393,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="A5_7900_8500">
+			<name>A5 79,00-85,00</name>
+
+            <Placemark id="A5_7900_8500_nuovazos">
+				<name>A5 79,00-85,00</name>
+				<styleUrl>#Veikianti_n22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 23.20584272611578,54.40890893893472,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A5_7900_8500_sankryzos">
+				<name>A5 79,00-85,00</name>
+				<styleUrl>#Veikianti_s22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 23.20345739360926,54.41494891481148,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+        </Folder>
+
+        <Folder id="A5_8500_9706">
+			<name>A5 85,00-97,06</name>
+
+            <Placemark id="A5_8500_9706_nuovazos">
+				<name>A5 85,00-97,06</name>
+				<styleUrl>#Darbai_n22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.14169370379172,54.32064844428877,0</coordinates></Point>
+					<Point><coordinates> 23.152879455641,54.33165582850729,0</coordinates></Point>
+					<Point><coordinates> 23.18098952403694,54.3687025781131,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+			
+			<Placemark id="A5_8500_9706_sankryzos">
+				<name>A5 85,00-97,06</name>
+				<styleUrl>#Darbai_s22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 23.128739684781,54.31362780593771,0</coordinates></Point>
+					<Point><coordinates> 23.16126094654929,54.34049621911893,0</coordinates></Point>
+					<Point><coordinates> 23.18994889667594,54.37735750033646,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+        </Folder>
+    </Folder>
+
     <Folder id="A1">
         <name>A1</name>
 
@@ -263,200 +457,6 @@
 				<MultiGeometry><Point><coordinates> 21.18951398799004,55.69569135267447,0</coordinates></Point></MultiGeometry>
 			</Placemark>
 		</Folder>
-    </Folder>
-
-    <Folder id="A5">
-        <name>A5</name>
-
-        <Folder id="A5_000_1645">
-			<name>A5 0,00-16,45</name>
-
-            <Placemark id="A5_000_1645_nuovazos">
-				<name>A5 0,00-16,45</name>
-				<styleUrl>#Priesprojektine_n22</styleUrl>
-				<MultiGeometry>
-					<Point><coordinates> 23.84241520318177,54.85052450326731,0</coordinates></Point>
-					<Point><coordinates> 23.83360378127346,54.8623584752462,0</coordinates></Point>
-					<Point><coordinates> 23.8201966448469,54.88854464704329,0</coordinates></Point>
-					<Point><coordinates> 23.8522212936716,54.92737847107105,0</coordinates></Point>
-					<Point><coordinates> 23.86832087144751,54.93347158037129,0</coordinates></Point>
-				</MultiGeometry>
-			</Placemark>
-			
-			<Placemark id="A5_000_1645_sankryzos">
-				<name>A5 0,00-16,45</name>
-				<styleUrl>#Priesprojektine_s22</styleUrl>
-				<MultiGeometry>
-					<Point><coordinates> 23.86275919850427,54.81181366024654,0</coordinates></Point>
-					<Point><coordinates> 23.85330475712568,54.82561329746755,0</coordinates></Point>
-					<Point><coordinates> 23.82675804747995,54.89391060255146,0</coordinates></Point>
-					<Point><coordinates> 23.83374835703358,54.90224597300639,0</coordinates></Point>
-					<Point><coordinates> 23.83465078390675,54.91214919410147,0</coordinates></Point>
-					<Point><coordinates> 23.87287549163474,54.93647394352696,0</coordinates></Point>
-				</MultiGeometry>
-			</Placemark>
-        </Folder>
-
-        <Folder id="A5_1646_2332">
-			<name>A5 16,465-23,32</name>
-
-            <Placemark id="A5_1646_2332_nuovazos">
-				<name>A5 16,465-23,32</name>
-				<styleUrl>#Projektuojama_n22H</styleUrl>
-				<MultiGeometry><Point><coordinates> 23.84979286718426,54.80741101125786,0</coordinates></Point></MultiGeometry>
-			</Placemark>
-			
-			<Placemark id="A5_1646_2332_sankryzos">
-				<name>A5 16,465-23,32</name>
-				<styleUrl>#Projektuojama_s22H</styleUrl>
-				<MultiGeometry>
-					<Point><coordinates> 23.78782611319678,54.7864733114773,0</coordinates></Point>
-					<Point><coordinates> 23.78003848864135,54.78146398912661,0</coordinates></Point>
-				</MultiGeometry>
-			</Placemark>
-        </Folder>
-        
-        <Folder id="A5_2332_5683">
-			<name>A5 23,32-56,83</name>
-
-            <Placemark id="A5_2332_5683_sankryzos">
-				<name>A5 23,32-56,83</name>
-				<styleUrl>#Veikianti_s22H</styleUrl>
-				<MultiGeometry>
-					<Point><coordinates> 23.39380972408614,54.59522881175921,0</coordinates></Point>
-					<Point><coordinates> 23.42276326022822,54.62821500583919,0</coordinates></Point>
-					<Point><coordinates> 23.68417009826376,54.72591084232495,0</coordinates></Point>
-				</MultiGeometry>
-			</Placemark>
-        </Folder>
-
-        <Folder id="A5_5683_7250">
-			<name>A5 56,83-72,50</name>
-
-            <Placemark id="A5_5683_7250_nuovazos">
-				<name>A5 56,83-72,50</name>
-				<styleUrl>#Darbai_n22H</styleUrl>
-				<MultiGeometry>
-					<Point><coordinates> 23.27254727665842,54.55750407397979,0</coordinates></Point>
-					<Point><coordinates> 23.38905040569341,54.59151224363966,0</coordinates></Point>
-				</MultiGeometry>
-			</Placemark>
-			
-			<Placemark id="A5_5683_7250_sankryzos">
-				<name>A5 56,83-72,50</name>
-				<styleUrl>#Darbai_s22H</styleUrl>
-				<MultiGeometry>
-					<Point><coordinates> 23.37838178610547,54.58517920293949,0</coordinates></Point>
-					<Point><coordinates> 23.2413364772266,54.51924983276711,0</coordinates></Point>
-					<Point><coordinates> 23.29723770400776,54.57307251810772,0</coordinates></Point>
-				</MultiGeometry>
-			</Placemark>
-        </Folder>
-
-        <Folder id="A5_7250_7900">
-			<name>A5 72,50-79,00</name>
-
-            <Placemark id="A5_7250_7900_nuovazos">
-				<name>A5 72,50-79,00</name>
-				<styleUrl>#Veikianti_n22H</styleUrl>
-				<MultiGeometry><Point><coordinates> 23.21922054512473,54.47639896986393,0</coordinates></Point></MultiGeometry>
-			</Placemark>
-        </Folder>
-
-        <Folder id="A5_7900_8500">
-			<name>A5 79,00-85,00</name>
-
-            <Placemark id="A5_7900_8500_nuovazos">
-				<name>A5 79,00-85,00</name>
-				<styleUrl>#Veikianti_n22H</styleUrl>
-				<MultiGeometry><Point><coordinates> 23.20584272611578,54.40890893893472,0</coordinates></Point></MultiGeometry>
-			</Placemark>
-			
-			<Placemark id="A5_7900_8500_sankryzos">
-				<name>A5 79,00-85,00</name>
-				<styleUrl>#Veikianti_s22H</styleUrl>
-				<MultiGeometry><Point><coordinates> 23.20345739360926,54.41494891481148,0</coordinates></Point></MultiGeometry>
-			</Placemark>
-        </Folder>
-
-        <Folder id="A5_8500_9706">
-			<name>A5 85,00-97,06</name>
-
-            <Placemark id="A5_8500_9706_nuovazos">
-				<name>A5 85,00-97,06</name>
-				<styleUrl>#Darbai_n22H</styleUrl>
-				<MultiGeometry>
-					<Point><coordinates> 23.14169370379172,54.32064844428877,0</coordinates></Point>
-					<Point><coordinates> 23.152879455641,54.33165582850729,0</coordinates></Point>
-					<Point><coordinates> 23.18098952403694,54.3687025781131,0</coordinates></Point>
-				</MultiGeometry>
-			</Placemark>
-			
-			<Placemark id="A5_8500_9706_sankryzos">
-				<name>A5 85,00-97,06</name>
-				<styleUrl>#Darbai_s22H</styleUrl>
-				<MultiGeometry>
-					<Point><coordinates> 23.128739684781,54.31362780593771,0</coordinates></Point>
-					<Point><coordinates> 23.16126094654929,54.34049621911893,0</coordinates></Point>
-					<Point><coordinates> 23.18994889667594,54.37735750033646,0</coordinates></Point>
-				</MultiGeometry>
-			</Placemark>
-        </Folder>
-    </Folder>
-
-    <Folder id="KK130">
-        <name>KK130</name>
-
-        <Folder id="KK130_1160_1948">
-			<name>KK130 11,60-19,48</name>
-
-            <Placemark id="KK130_1160_1948_nuovazos">
-				<name>KK130 11,60-19,48</name>
-				<styleUrl>#Projektuojama_n22</styleUrl>
-				<MultiGeometry><Point><coordinates>23.87717586883365,54.78437939265439,0</coordinates></Point></MultiGeometry>
-			</Placemark>
-			
-			<Placemark id="KK130_1160_1948_sankryzos2">
-				<name>KK130 11,60-19,48</name>
-				<styleUrl>#Projektuojama_s22</styleUrl>
-				<MultiGeometry>
-					<Point><coordinates> 23.9170130632764,54.75329343721627,0</coordinates></Point>
-					<Point><coordinates> 23.87612395690729,54.79521464409265,0</coordinates></Point>
-					<Point><coordinates> 23.87338103113728,54.80178991026015,0</coordinates></Point>
-				</MultiGeometry>
-			</Placemark>
-			
-			<Placemark id="KK130_1160_1948_sankryzos1">
-				<name>KK130 11,60-19,48</name>
-				<styleUrl>#Projektuojama_x22</styleUrl>
-				<MultiGeometry><Point><coordinates>23.87839655533726,54.77798643880442,0</coordinates></Point></MultiGeometry>
-			</Placemark>
-        </Folder>
-
-        <Folder id="KK130_1948_3110">
-			<name>KK130 19,48-31,10</name>
-
-            <Placemark id="KK130_1948_3110_nuovazos">
-				<name>KK130 19,48-31,10</name>
-				<styleUrl>#Projektuojama_n22</styleUrl>
-				<MultiGeometry>
-					<Point><coordinates> 23.95928991135091,54.68227878354816,0</coordinates></Point>
-					<Point><coordinates> 23.95813811125656,54.71317953190556,0</coordinates></Point>
-				</MultiGeometry>
-			</Placemark>
-			
-			<Placemark id="KK130_1948_3110_sankryzos1">
-				<name>KK130 19,48-31,10</name>
-				<styleUrl>#Projektuojama_x22</styleUrl>
-				<MultiGeometry>
-					<Point><coordinates> 23.9481967506546,54.6591051151596,0</coordinates></Point>
-					<Point><coordinates> 23.95264326129234,54.67437507958083,0</coordinates></Point>
-					<Point><coordinates> 23.96266088706528,54.6950277056317,0</coordinates></Point>
-					<Point><coordinates> 23.95251713153825,54.72280692552055,0</coordinates></Point>
-					<Point><coordinates> 23.92887962222836,54.74286837438828,0</coordinates></Point>
-				</MultiGeometry>
-			</Placemark>
-        </Folder>
     </Folder>
     
     <Style id="Priesprojektine_s21">
