@@ -198,6 +198,109 @@
         </Folder>
     </Folder>
 
+	<Folder id="A2">
+		<name>A2</name>
+
+		<Folder id="A2_927_1023">
+			<name>A2 9,276-10,238</name>
+
+			<Placemark id="A2_927_1023_nuovazos">
+				<name>A2 9,276-10,238</name>
+				<styleUrl>#Konkursas_n33</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 25.20852236623463,54.75544967414373,0</coordinates></Point>
+					<Point><coordinates> 25.21430067272693,54.75032386297521,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+
+		<Folder id="A2_1023_13255">
+			<name>A2 Vilnius-Panevėžys</name>
+			
+			<Placemark id="A2_1223_12685_nuovazos">
+				<name>A2 Vilnius-Panevėžys</name>
+				<styleUrl>#Veikianti_n22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 24.6574647981978,55.46730279949688,0</coordinates></Point>
+					<Point><coordinates> 24.85893216821699,55.09528986533939,0</coordinates></Point>
+					<Point><coordinates> 25.17324869751695,54.79025581837909,0</coordinates></Point>
+					<Point><coordinates> 25.17977349656151,54.7838138887905,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A2_12685_13255_nuovazos">
+				<name>A2 Vilnius-Panevėžys</name>
+				<styleUrl>#Veikianti_n22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 24.37506462536098,55.68863777427435,0</coordinates></Point>
+					<Point><coordinates> 24.36596369403105,55.67130193693292,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A2_1223_12685_sankryzos1">
+				<name>A2 Vilnius-Panevėžys</name>
+				<styleUrl>#Veikianti_x22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 24.41996128201638,55.61387063529302,0</coordinates></Point>
+					<Point><coordinates> 24.51627616216541,55.55324258454037,0</coordinates></Point>
+					<Point><coordinates> 24.53744639454179,55.5398068085457,0</coordinates></Point>
+					<Point><coordinates> 24.57268993923758,55.5253054733262,0</coordinates></Point>
+					<Point><coordinates> 24.61704955065041,55.50130471907708,0</coordinates></Point>
+					<Point><coordinates> 24.66946448140709,55.4517715421855,0</coordinates></Point>
+					<Point><coordinates> 24.84398402605496,55.11890911983159,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A2_12685_13255_sankryzos1">
+				<name>A2 Vilnius-Panevėžys</name>
+				<styleUrl>#Veikianti_x22</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 24.3805486513761,55.69916727518178,0</coordinates></Point>
+					<Point><coordinates> 24.37612560018996,55.6906926662076,0</coordinates></Point>
+					<Point><coordinates> 24.36725953900373,55.67388427004879,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A2_1023_1223_sankryzos2">
+				<name>A2 Vilnius-Panevėžys</name>
+				<styleUrl>#Veikianti_s22</styleUrl>
+				<MultiGeometry><Point><coordinates> 25.19922827303139,54.76393659522079,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A2_1223_12685_sankryzos2">
+				<name>A2 Vilnius-Panevėžys</name>
+				<styleUrl>#Veikianti_s22H</styleUrl>
+				<MultiGeometry>
+					<Point><coordinates> 24.70122838731286,55.39747361513855,0</coordinates></Point>
+					<Point><coordinates> 24.78212830653224,55.31458863610573,0</coordinates></Point>
+					<Point><coordinates> 24.79443360568011,55.30245817371074,0</coordinates></Point>
+					<Point><coordinates> 24.81883426065855,55.24787393219561,0</coordinates></Point>
+					<Point><coordinates> 24.81898711991003,55.22900543473796,0</coordinates></Point>
+					<Point><coordinates> 24.81114381527291,55.18080619364297,0</coordinates></Point>
+					<Point><coordinates> 24.88525141124272,55.06623983387252,0</coordinates></Point>
+					<Point><coordinates> 24.90506460638697,55.02543253108238,0</coordinates></Point>
+					<Point><coordinates> 24.91210606524597,55.01557994211996,0</coordinates></Point>
+					<Point><coordinates> 24.96699700441726,54.94744097639427,0</coordinates></Point>
+					<Point><coordinates> 25.07480149833298,54.87284235775427,0</coordinates></Point>
+					<Point><coordinates> 25.13098530931724,54.82588143918489,0</coordinates></Point>
+					<Point><coordinates> 25.1589921698502,54.80470831637385,0</coordinates></Point>
+				</MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A2_12837_sankryzos">
+				<name>A2/A8/A17</name>
+				<styleUrl>#Veikianti_s22</styleUrl>
+				<MultiGeometry><Point><coordinates> 24.36273388634215,55.66448514258197,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+
+			<Placemark id="A2_7272_sankryzos">
+				<name>A2/A6</name>
+				<styleUrl>#Veikianti_s22H</styleUrl>
+				<MultiGeometry><Point><coordinates> 24.81070621083162,55.27049402808117,0</coordinates></Point></MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+
     <Folder id="A1">
         <name>A1</name>
 
